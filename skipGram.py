@@ -15,9 +15,6 @@ import collections
 import _pickle as pickle
 
 
-__authors__ = ['Priyanka Pippiri','Shahmir Kazi','Veerendarnath Naladala']
-__emails__  = ['B00746159@essec.edu','B00771255@essec.edu','B00760534@essec.edu']
-
 
 def text2sentences(path):
     punctuations = {'!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~',' '}
